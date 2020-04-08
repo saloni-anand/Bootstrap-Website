@@ -2,14 +2,12 @@
 A Fast Food Website Template  
 
 # Images
-![Screenshot (44)](https://user-images.githubusercontent.com/51950069/78824281-bb0a7b80-79fb-11ea-827c-0ac16fc32607.png)
-![Screenshot (45)](https://user-images.githubusercontent.com/51950069/78824290-be9e0280-79fb-11ea-9a6f-5ea0c739a5a6.png)
-![Screenshot (46)](https://user-images.githubusercontent.com/51950069/78824291-bf369900-79fb-11ea-97e2-e0b61c943e0e.png)
-![Screenshot (47)](https://user-images.githubusercontent.com/51950069/78824302-c2318980-79fb-11ea-966e-430a6a7682a3.png)
-![Screenshot (48)](https://user-images.githubusercontent.com/51950069/78824304-c2ca2000-79fb-11ea-9d42-9edc5ac7716d.png)
-![Screenshot (49)](https://user-images.githubusercontent.com/51950069/78824309-c493e380-79fb-11ea-8cf1-ddeb1e56f8b1.png)
-![Screenshot (50)](https://user-images.githubusercontent.com/51950069/78824323-c8c00100-79fb-11ea-9756-3aa3c0b48413.png)
-![Screenshot (53)](https://user-images.githubusercontent.com/51950069/78824327-c9589780-79fb-11ea-94fa-764a93744b20.png)  
+![Screenshot (44)](https://user-images.githubusercontent.com/51950069/78824711-6e737000-79fc-11ea-8597-da3521d4ad51.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/51950069/78824723-759a7e00-79fc-11ea-891a-cebbd96b66b9.png)
+![Screenshot (47](https://user-images.githubusercontent.com/51950069/78824735-7c28f580-79fc-11ea-8eef-2a6ef7dac58f.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/51950069/78824742-7d5a2280-79fc-11ea-9df5-24755754a7ed.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/51950069/78824753-7f23e600-79fc-11ea-9a54-100824587c16.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/51950069/78824764-83e89a00-79fc-11ea-91fa-eeb62de5e5f9.png)    
 
 # Videos
 ![video1](https://user-images.githubusercontent.com/51950069/78824364-d83f4a00-79fb-11ea-83a7-f4add01206bf.gif)
