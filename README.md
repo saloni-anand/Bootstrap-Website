@@ -1,5 +1,5 @@
 # Bootstrap-Website
-A Fast Food Website Template  
+A Healthy Food Website Template  
 
 # Images
 ![Screenshot (44)](https://user-images.githubusercontent.com/51950069/78824711-6e737000-79fc-11ea-8597-da3521d4ad51.png)
